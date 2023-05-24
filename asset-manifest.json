@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/chisunku.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/chisunku.github.io/static/js/main.d94a1fe9.js",
-    "static/js/787.1be629dd.chunk.js": "/chisunku.github.io/static/js/787.1be629dd.chunk.js",
-    "index.html": "/chisunku.github.io/index.html",
-    "main.073c9b0a.css.map": "/chisunku.github.io/static/css/main.073c9b0a.css.map",
-    "main.d94a1fe9.js.map": "/chisunku.github.io/static/js/main.d94a1fe9.js.map",
-    "787.1be629dd.chunk.js.map": "/chisunku.github.io/static/js/787.1be629dd.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.3c4f70a6.js",
+    "static/js/787.1be629dd.chunk.js": "/static/js/787.1be629dd.chunk.js",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.3c4f70a6.js.map": "/static/js/main.3c4f70a6.js.map",
+    "787.1be629dd.chunk.js.map": "/static/js/787.1be629dd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.d94a1fe9.js"
+    "static/js/main.3c4f70a6.js"
   ]
 }
